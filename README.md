@@ -98,7 +98,7 @@ I am a motivated and passionate data scientist with a strong background in both 
 - Conducted bioinformatics and statistical analyses for probiotic clinical trials.
 - Collaborated on a genetic reporting framework for ASD whole genome sequencing data.
 
-### Undergraduate Student Intern
+### Data Science Intern
 *October 2018 – June 2020*  
 - Assisted in data entry, statistical analysis, and manuscript development for ASD studies.
 - Engineered a Python-based pipeline for microbiome reports.
