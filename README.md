@@ -5,7 +5,7 @@
 
 I am a motivated and passionate data scientist with a strong background in both life sciences and research computing. Experienced in working with various technologies and platforms, I aim to leverage my skills and expertise to contribute to innovative projects.
 
-- How to reach me: **kevinliu.bmb@gmail.com**
+- Contact: **kevinliu.bmb@gmail.com**
 
 ## Education
 
@@ -29,8 +29,7 @@ I am a motivated and passionate data scientist with a strong background in both 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Libraries and Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
