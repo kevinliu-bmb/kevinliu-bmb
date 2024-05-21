@@ -132,7 +132,7 @@ I am a motivated and passionate data scientist with a strong background in both 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinliu-bmb&show_icons=true&locale=en)
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=kevinliu-bmb&theme=darkhub&margin-w=3&margin-h=3)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=kevinliu-bmb&theme=darkhub&column=3)
 
 ## Connect with Me
 
