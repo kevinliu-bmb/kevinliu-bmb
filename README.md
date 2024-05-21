@@ -9,13 +9,25 @@ I am a motivated and passionate data scientist with a strong background in both 
 
 ## Education
 
-### Harvard Medical School, Department of Biomedical Informatics
+<table>
+  <tr>
+    <td><img src="https://identityguide.hms.harvard.edu/sites/default/files/assets/blavatnikinstitute.png" width="100" alt="HMS Logo"></td>
+    <td><strong>Harvard Medical School | Department of Biomedical Informatics</strong></td>
+  </tr>
+</table>
+
 **Master of Science in Biomedical Informatics**  
 *March 2024*
 - **Thesis:** cobraGEMM: A Genome-scale Metabolic Model Assembly and Optimization Pipeline for Analysis of Personalized, Multi-Species Metabolic Models
 - **Select Coursework:** Advanced Data Science, Systems Development for Computational Science, Data Science for Medical Decision Making, Biological Data Analysis
 
-### Boston University, College of Arts and Sciences
+<table>
+  <tr>
+    <td><img src="https://www.bu.edu/globalprograms/files/2017/01/boston-university-logo.gif" width="100" alt="BU Logo"></td>
+    <td><strong>Boston University | College of Arts and Sciences</strong></td>
+  </tr>
+</table>
+
 **Bachelor of Arts in Biochemistry and Molecular Biology**  
 *May 2020*
 - **Certification:** American Society for Biochemistry and Molecular Biology (ASBMB) Degree Certification
