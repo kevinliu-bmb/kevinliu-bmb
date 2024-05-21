@@ -1,14 +1,4 @@
 
-
-<p align="left">
-  <a href="https://imgur.com/cN6HwKm" target="_blank">
-    <img src="https://imgur.com/cN6HwKm" alt="HMS" />
-  </a>
-</p>
-
-
-
-
 # Kevin Liu, MSc
 
 ## About Me
