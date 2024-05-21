@@ -126,26 +126,26 @@ I am a motivated and passionate data scientist with a strong background in both 
 - **Google Data Analytics Professional Certificate**, Coursera, January 2022
 - **Biomedical Research Investigators and Key Personnel Course**, Collaborative Institutional Training Initiative (CITI), October 2021 - October 2024
 
---
+----
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=kevinliu-bmb&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
---
+----
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=kevinliu-bmb&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinliu-bmb&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
---
+----
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=kevinliu-bmb&style=for-the-badge&color=orange" alt=""/>
 </div>
 
---
+----
 
 ## Connect with Me
 
