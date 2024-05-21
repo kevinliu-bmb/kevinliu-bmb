@@ -126,9 +126,7 @@ I am a motivated and passionate data scientist with a strong background in both 
 - **Google Data Analytics Professional Certificate**, Coursera, January 2022
 - **Biomedical Research Investigators and Key Personnel Course**, Collaborative Institutional Training Initiative (CITI), October 2021 - October 2024
 
-## GitHub Stats and Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kevinliu-bmb&title=Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## GitHub Stats
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=kevinliu-bmb&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
@@ -142,6 +140,10 @@ I am a motivated and passionate data scientist with a strong background in both 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=kevinliu-bmb&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ## Connect with Me
 
