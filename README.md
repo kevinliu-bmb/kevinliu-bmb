@@ -128,9 +128,9 @@ I am a motivated and passionate data scientist with a strong background in both 
 
 ## GitHub Stats and Trophies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kevinliu-bmb&show_icons=true&locale=en&layout=compact&theme=darkhub)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kevinliu-bmb&show_icons=true&locale=en&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinliu-bmb&show_icons=true&locale=en&theme=darkhub)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinliu-bmb&show_icons=true&locale=en)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=kevinliu-bmb&theme=darkhub&column=3&margin-w=15&margin-h=15)
 
