@@ -92,7 +92,7 @@ I am a motivated and passionate data scientist with a strong background in both 
 ## Experience
 
 ### Synapse Program, MGH/HST Martinos Center for Biomedical Imaging
-**Research Assistant II (Acting Data Manager and Project Lead)**  
+**Data Scientist**  
 *September 2022 – Current*  
 - Conceptualized and optimized study designs for ASD biomarker discovery.
 - Led NGS-based bioinformatics analyses and contributed to manuscript preparations.
@@ -104,7 +104,7 @@ I am a motivated and passionate data scientist with a strong background in both 
 - Utilized constraint-based reconstruction to predict host-microbiota interactions using Python, R, and Bash.
 
 ### Synapse Program, MGH/HST Martinos Center for Biomedical Imaging
-**Clinical Research Coordinator**  
+**Data Scientist**  
 *June 2020 – September 2022*  
 - Conducted bioinformatics and statistical analyses for probiotic clinical trials.
 - Collaborated on a genetic reporting framework for ASD whole genome sequencing data.
