@@ -7,6 +7,25 @@ I am a motivated and passionate data scientist with a strong background in both 
 
 - Contact: **kevinliu.bmb@gmail.com**
 
+## Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/kevinliu1061131" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/kevinliu1061131?logo=twitter&style=for-the-badge" alt="kevinliu1061131" />
+  </a>
+  <a href="https://linkedin.com/in/kevin-liu-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kevin Liu" />
+  </a>
+  <a href="https://kaggle.com/kevinliumbi" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kevinliumbi" />
+  </a>
+  <a href="https://instagram.com/kevinliu.fastq" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kevinliu.fastq" />
+  </a>
+  <a href="https://www.leetcode.com/kevinliu-bmb" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="kevinliu-bmb" />
+  </a>
+
 ## Education
 
 <table>
@@ -144,25 +163,4 @@ I am a motivated and passionate data scientist with a strong background in both 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=kevinliu-bmb&style=for-the-badge&color=orange" alt=""/>
 </div>
-
-----
-
-## Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/kevinliu1061131" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/kevinliu1061131?logo=twitter&style=for-the-badge" alt="kevinliu1061131" />
-  </a>
-  <a href="https://linkedin.com/in/kevin-liu-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kevin Liu" />
-  </a>
-  <a href="https://kaggle.com/kevinliumbi" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kevinliumbi" />
-  </a>
-  <a href="https://instagram.com/kevinliu.fastq" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kevinliu.fastq" />
-  </a>
-  <a href="https://www.leetcode.com/kevinliu-bmb" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="kevinliu-bmb" />
-  </a>
 </p>
