@@ -1,9 +1,5 @@
 
-# Kevin Liu, M.Sc.
-
-## About Me
-
-I am a motivated and passionate data scientist with a strong background in both life sciences and research computing. Experienced in working with various technologies and platforms, I aim to leverage my skills and expertise to contribute to innovative health and biotechnology projects.
+# Kevin Liu, S.M.
 
 ## Connect with Me
 
